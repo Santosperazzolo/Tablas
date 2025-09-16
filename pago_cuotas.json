@@ -1,0 +1,94 @@
+{
+  "PagoCuotasTransferencia": [
+    {
+      "IdContrato": "1000",
+      "DNIDeudor": "30712429",
+      "Apellido_Nombres": "Martínez Laura",
+      "CuotaNro": 10,
+      "FechaPago": "2025-09-13",
+      "MontoPagado": 25676.97,
+      "CodBanco": 4
+    },
+    {
+      "IdContrato": "1001",
+      "DNIDeudor": "30656028",
+      "Apellido_Nombres": "Gómez María",
+      "CuotaNro": 12,
+      "FechaPago": "2025-09-09",
+      "MontoPagado": 29178.94,
+      "CodBanco": 2
+    },
+    {
+      "IdContrato": "1002",
+      "DNIDeudor": "30825421",
+      "Apellido_Nombres": "López Ana",
+      "CuotaNro": 9,
+      "FechaPago": "2025-09-03",
+      "MontoPagado": 18469.7,
+      "CodBanco": 5
+    },
+    {
+      "IdContrato": "1003",
+      "DNIDeudor": "30466613",
+      "Apellido_Nombres": "Gómez María",
+      "CuotaNro": 12,
+      "FechaPago": "2025-09-18",
+      "MontoPagado": 17071.33,
+      "CodBanco": 1
+    },
+    {
+      "IdContrato": "1004",
+      "DNIDeudor": "30166141",
+      "Apellido_Nombres": "López Ana",
+      "CuotaNro": 8,
+      "FechaPago": "2025-10-01",
+      "MontoPagado": 20868.42,
+      "CodBanco": 3
+    },
+    {
+      "IdContrato": "1005",
+      "DNIDeudor": "30662930",
+      "Apellido_Nombres": "Fernández Carlos",
+      "CuotaNro": 4,
+      "FechaPago": "2025-09-13",
+      "MontoPagado": 18867.3,
+      "CodBanco": 2
+    },
+    {
+      "IdContrato": "1006",
+      "DNIDeudor": "30821695",
+      "Apellido_Nombres": "Gómez María",
+      "CuotaNro": 12,
+      "FechaPago": "2025-09-16",
+      "MontoPagado": 14096.16,
+      "CodBanco": 2
+    },
+    {
+      "IdContrato": "1007",
+      "DNIDeudor": "30561989",
+      "Apellido_Nombres": "Martínez Laura",
+      "CuotaNro": 6,
+      "FechaPago": "2025-09-26",
+      "MontoPagado": 26105.49,
+      "CodBanco": 1
+    },
+    {
+      "IdContrato": "1008",
+      "DNIDeudor": "30684178",
+      "Apellido_Nombres": "Martínez Laura",
+      "CuotaNro": 1,
+      "FechaPago": "2025-09-09",
+      "MontoPagado": 28447.82,
+      "CodBanco": 1
+    },
+    {
+      "IdContrato": "1009",
+      "DNIDeudor": "30141199",
+      "Apellido_Nombres": "Fernández Carlos",
+      "CuotaNro": 2,
+      "FechaPago": "2025-09-09",
+      "MontoPagado": 12701.47,
+      "CodBanco": 2
+    }
+  ]
+}
